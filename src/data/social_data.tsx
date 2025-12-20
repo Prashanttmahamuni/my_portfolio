@@ -22,10 +22,10 @@ import {
 } from '@tabler/icons-react'
 
 export const SOCIAL_DATA = {
-  name: 'Harshhaa Vardhan Reddy',
-  initials: 'HR',
+  name: 'Prashant Mahamuni',
+  initials: 'PM',
   avatar: '/assets/avatar.png',
-  about: 'DevOps Engineer, a passionate DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently with a love for technology and a knack for problem-solving. I thrive on challenges and enjoy collaborating with teams to deliver innovative solutions that drive success. Let\'s connect and explore the world of DevOps together!. Based in Hyderabad, India',
+  about: 'DevOps Engineer, a passionate DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently with a love for technology and a knack for problem-solving. I thrive on challenges and enjoy collaborating with teams to deliver innovative solutions that drive success. Let\'s connect and explore the world of DevOps together!. Based in Pune, India',
   contacts: [
     {
       title: 'Portfolio',
@@ -39,29 +39,29 @@ export const SOCIAL_DATA = {
     },
     {
       title: 'Email',
-      url: 'mailto:harshhaa03@gmail.com',
+      url: 'mahamuniprashant26@gmail.com',
       icon: IconMail
     },
     {
       title: 'Blog',
-      url: 'https://blog.notharshhaa.site',
+      url: 'https://hashnode.com/@PrashantMahamuni',
       icon: IconBrandBlogger
     },
     {
       title: 'WhatsApp',
-      url: 'https://wa.me/+917995905634',
+      url: 'https://wa.me/+919511830468',
       icon: IconBrandWhatsapp
     }
   ],
   socials: [
     {
       title: 'GitHub',
-      url: 'https://github.com/NotHarshhaa',
+      url: 'https://github.com/Prashanttmahamuni',
       icon: IconBrandGithub
     },
     {
       title: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/harshhaa-vardhan-reddy',
+      url: 'https://www.linkedin.com/in/prashantmahamuni/',
       icon: IconBrandLinkedin
     },
     {
