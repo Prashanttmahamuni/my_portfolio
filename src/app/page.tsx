@@ -69,7 +69,7 @@ export default function HomePage() {
         >
           <div className="absolute -inset-0.5 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt"></div>
           <a
-            href="https://github.com/NotHarshhaa"
+            href="https://github.com/Prashanttmahamuni"
             target="_blank"
             rel="noopener noreferrer"
             className="block rounded-full transition-transform hover:scale-105 relative group"
